@@ -1,4 +1,4 @@
-# Name of the board "FicusIoT"
+# Name of the board "IoTPT Core-Board"
 
 # OpenSource-Hardware-Lab
 ### Description : Upcoming Plan for Learners 
